@@ -1,0 +1,1 @@
+Para utilizar este programa se necesita instalar requirements.txt para el backend con Django y para el frontend instalar React para el cual se necesita node.js, para comenzar este entorno se ejecutara el comando $npm install bootstrap@4.6.0 reactstrap@8.9.0 --legacy-peer-deps, $npm start
